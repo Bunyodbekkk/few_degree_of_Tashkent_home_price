@@ -1,0 +1,2 @@
+# few_degree_of_Tashkent_home_price
+knn_model
